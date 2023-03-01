@@ -1,3 +1,6 @@
+-- Based on Portfolio Project on Alex the Analyst YouTube chanel
+-- https://youtu.be/qfyynHBFOsM
+
 use Project
 
 -- The highest total number of deaths per country
