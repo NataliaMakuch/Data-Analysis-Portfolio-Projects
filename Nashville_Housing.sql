@@ -1,3 +1,6 @@
+-- Based on Portfolio Project from Alex the Analyst YouTube channel
+-- https://youtu.be/8rO7ztF4NtU
+
 SELECT * 
 FROM Project..Housing_Nashville
 
